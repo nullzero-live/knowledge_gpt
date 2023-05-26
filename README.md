@@ -2,7 +2,13 @@
 📖KnowledgeGPT
 </h1>
 
-Accurate answers and instant citations for your documents.
+[ FORKED FROM KNOWLEDGE GPT ]
+
+## Adding features:
+
+- Select knowledge source from drop down menu
+- Docker containerization
+- Google Cloud Deployment
 
 ## 🔧 Features
 
